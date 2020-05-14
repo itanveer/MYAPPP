@@ -29,5 +29,6 @@
         <!-- PLUGINS PLUGINS -->
         <!-- device required so we can detect if we are using iOS -->
         <plugin name="cordova-plugin-device"         source="npm" spec="1.0.1" />
+        <icon src="favicon-48x48"/>	
 
     </widget>
